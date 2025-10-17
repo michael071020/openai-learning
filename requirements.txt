@@ -1,0 +1,5 @@
+openai>=1.0.0
+python-dotenv
+tiktoken
+jupyterlab
+nbstripout   # optional: 用於自動移除 notebook outputs
